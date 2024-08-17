@@ -1,0 +1,44 @@
+.card{
+    width: 400px;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+    margin: 0 auto;
+    justify-content:space-between;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background: #003049 ;
+    color: aliceblue;
+    border-bottom: solid #ffb703 10px;
+    border-radius: 10px;
+    text-shadow: 1px 1px #780000;
+
+}
+
+
+.avatar{
+    width: 165px;
+    height: 200px;
+    box-shadow: 3px 3px 3px  #780000;
+}
+
+.body{
+    margin: ;
+}
+
+
+.icon{
+    width: 25px;
+    height: 25px;
+    margin-top: 185px;
+    margin-left: 20px;
+    border: solid 3px #056294;
+    border-radius: 10px;
+}
+
+.icon:hover{
+    animation-direction: alternate-reverse;
+}
+
